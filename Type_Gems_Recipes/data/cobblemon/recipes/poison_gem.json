@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IEI",
+        "BAB",
+		"IRI"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:glass"
+        },
+		"E": {
+            "item": "minecraft:ender_eye"
+        },
+		"A": {
+            "item": "cobblemon:poison_barb"
+        },
+        "B": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "cobblemon:poison_gem"
+    }
+}
