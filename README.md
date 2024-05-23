@@ -6,14 +6,14 @@
 
 Hello! This is a datapack made for Cobblemon 1.5, a minecraft mod, that adds custom recipes for each type gem. Currently, the only way to get the new type gems is to excavate them in ruin structures. This makes this absolute rare and hard to find. This alternative solution will not only make them less rare for PVPers, but give a new purpose to the other set of Move-Type held items!
 
-## Why choose the Move-Type Held Items?
+## Why Choose the Move-Type Held Items?
 Because the type gems are essentially the same buff except with another +10% move boost and one-time use per battle. Therefore, making it crafted from them would make sense! The craft essentially must strengthen its power at the cost of viability. Because of this, the idea below is what I came up with for the recipe:
 
-## Why the other items in the crafting recipe?
+## Why Are the Other Items in the Crafting Recipe?
 
 Because it is a gem, the glass and amethyst encompasses the held-item. The point of the ender eye and redstone is to be the "battery" that gives the new gem more power at the cost of "shattering" in battle. 
 
-## How do I add this to my minecraft world?
+## How do I Add This to My Minecraft World?
 
 ### New World:
 1. Open Minecraft and create a new world.
